@@ -41,5 +41,5 @@ cd bike-sales-dashboard
 Open the dashboard file using a tool that supports Excel files (Microsoft Excel recomended).
 
 
-### **THIS DATASET WAS PROVIED BY ALEX THE ANALYST. THANK YOU ALEX FOR YOUR AWESOME DATASET AND GUIDANCE** 
+### **THIS DATASET WAS PROVIED BY ALEX THE ANALYST. THANK YOU ALEX FOR YOUR AWESOME DATASET AND GUIDANCE.** 
 
