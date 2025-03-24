@@ -29,14 +29,9 @@ Dashboard
 A dashboard has been created to visualize the insights derived from the analysis. It provides an interactive way to explore the data and gain a deeper understanding of bike sales trends.
 
 # How to Use
-Clone the Repository:
+Download the Excel File provided named Unfiltered data for your own practice
 
-git clone https://github.com/your-username/bike-sales-dashboard.git
-
---Navigate to the Project Directory:
-
-cd bike-sales-dashboard
-
+or;
 
 Open the dashboard file using a tool that supports Excel files (Microsoft Excel recomended).
 
